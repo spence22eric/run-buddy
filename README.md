@@ -1,4 +1,4 @@
-# Run Buddy, Inc
+# Run Buddy
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,5 +12,3 @@ https://spence22eric.github.io/run-buddy/
 
 ## Contribution
 Made by ❤️ by Eric Spencer
-
-### ©️2019 Run Buddy, Inc
